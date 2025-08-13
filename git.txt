@@ -1,1 +1,6 @@
-git status
+git status(to check status)
+git init(to add file)
+git remote add origin (url of repo)
+git commit -m "hello"
+ git branch
+ git push origin master 
