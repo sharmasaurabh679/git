@@ -1,6 +1,13 @@
-git status(to check status)
+ to add floder for the frist time
+
+ git status(to check status)
 git init(to add file)
 git remote add origin (url of repo)
 git commit -m "hello"
  git branch
  git push origin master 
+
+ add file to exixted floder
+ git add .
+ git commit -m "message"
+ git push origin master
